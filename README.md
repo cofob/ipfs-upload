@@ -1,3 +1,5 @@
+> **Archival notice:** This repository is archived and no longer maintained.
+
 # Upload to IPFS
 
 ## Example
